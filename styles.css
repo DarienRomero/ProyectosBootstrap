@@ -1,0 +1,16 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #1e30f3 !important;
+}
+.header-image {
+    width: 400px;
+    height: auto;
+}
+.header-title {
+    font-size: 72px;
+    background: linear-gradient(to right, #1e30f3, #e21e80);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.header-skills {
+    background: linear-gradient(to right, #1e30f3, #e21e80);
+}
